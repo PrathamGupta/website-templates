@@ -6,6 +6,10 @@
 
 |Sl.No| Template Name  | Live Example |
 |-----|----------------|--------------|
+|  33   | free-portfolio-html5-responsive-website-sam					      |[live example](https://learning-zone.github.io/website-templates/free-portfolio-html5-responsive-website-sam/)|	
+|  45   | johndoe-portfolio-resume-bootstrap-template					      |[live example](https://learning-zone.github.io/website-templates/johndoe-portfolio-resume-bootstrap-template/)|	
+|  119   | gunmetal-portal												      |[live example](https://learning-zone.github.io/website-templates/gunmetal-portal/)|
+|  139   | portfolio-item												      |[live example](https://learning-zone.github.io/website-templates/portfolio-item/)|	
 
 <br/>
 
