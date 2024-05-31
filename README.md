@@ -2,6 +2,11 @@
  
 > *Click &#9733; if you like the project. Your contributions are heartily ♡ welcome.*
 
+### The ones that I like are :
+
+|Sl.No| Template Name  | Live Example |
+|-----|----------------|--------------|
+
 <br/>
 
 ## Table of contents
